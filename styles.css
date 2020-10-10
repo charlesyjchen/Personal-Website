@@ -265,11 +265,12 @@ a{
 	margin: 1% 0 1% 0;
 }
 .contact-logos img{
-	max-width: 3%;
+	background-color: white;
+	max-width: 3%; 
 	max-height: 3%;
 	border-radius: 50%;
 	margin: 0 1vw 0 1vw;
 }
-.resume:hover, .linkedin:hover, .email:hover{
+.resume:hover, .linkedin:hover, .email:hover, .github:hover{
 	opacity: 0.8;
 }
